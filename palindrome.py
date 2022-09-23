@@ -9,6 +9,7 @@ def run():
 
 
 num = round(10.3456, 2)
+print(num)
 
 print(10 / 2 + 5 * 7)
 
